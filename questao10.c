@@ -1,4 +1,4 @@
-/*Faça um programa que pergunte quanto você ganha por mês. Calcule e imprima: i) Salário bruto; ii) Quanto pagou de imposto (8%); iii) Quanto pagou ao sindicato (5%); iv) Salário líquido*/
+/*FaÃ§a um programa que pergunte quanto vocÃª ganha por mÃªs. Calcule e imprima: i) SalÃ¡rio bruto; ii) Quanto pagou de imposto (8%); iii) Quanto pagou ao sindicato (5%); iv) SalÃ¡rio lÃ­quido*/
 
 #include <stdio.h>
 
