@@ -1,4 +1,4 @@
-/*Faça um programa que receba o raio de um círculo, calcule e imprima a área deste círculo.*/
+/*FaÃ§a um programa que receba o raio de um cÃ­rculo, calcule e imprima a Ã¡rea deste cÃ­rculo.*/
 
 #include <stdio.h>
 #define pi 3.14159265358979323846
