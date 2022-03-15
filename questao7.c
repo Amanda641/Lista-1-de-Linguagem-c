@@ -1,4 +1,4 @@
-/*Faça um programa que receba o lado de um quadro, calcule a área de um quadrado e imprima o dobro desta área.*/
+/*FaÃ§a um programa que receba o lado de um quadro, calcule a Ã¡rea de um quadrado e imprima o dobro desta Ã¡rea.*/
 
 #include <stdio.h>
 
