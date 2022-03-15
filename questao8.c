@@ -1,4 +1,4 @@
-/*Faça um programa que pergunte o quanto você ganha por hora e o número de horas trabalhadas no mês. Calcule e imprima o seu salário neste mês*/
+/*FaÃ§a um programa que pergunte o quanto vocÃª ganha por hora e o nÃºmero de horas trabalhadas no mÃªs. Calcule e imprima o seu salÃ¡rio neste mÃªs*/
 
 #include <stdio.h>
 
