@@ -1,4 +1,4 @@
-/*Faça um programa que receba uma quantidade de dias, horas, minutos e segundos. Calcule e imprima o total em segundos.*/
+/*FaÃ§a um programa que receba uma quantidade de dias, horas, minutos e segundos. Calcule e imprima o total em segundos.*/
 #include <stdio.h>
 
 int main (){
