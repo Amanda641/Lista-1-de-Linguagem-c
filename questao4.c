@@ -1,4 +1,4 @@
-/*Faça um programa que peça 3 notas de avaliações e imprima a média aritmética simples dessas notas.*/
+/*FaÃ§a um programa que peÃ§a 3 notas de avaliaÃ§Ãµes e imprima a mÃ©dia aritmÃ©tica simples dessas notas.*/
 
 #include <stdio.h>
 
