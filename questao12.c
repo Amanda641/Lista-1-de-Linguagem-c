@@ -1,5 +1,5 @@
-/*Faça um programa que receba o número total de eleitores de um município, número de votos brancos, nulos e válidos.
-Calcule e imprima o percentual que cada um representa em relação ao total de eleitores.*/
+/*FaÃ§a um programa que receba o nÃºmero total de eleitores de um municÃ­pio, nÃºmero de votos brancos, nulos e vÃ¡lidos.
+Calcule e imprima o percentual que cada um representa em relaÃ§Ã£o ao total de eleitores.*/
 
 
 #include <stdio.h>
