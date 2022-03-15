@@ -1,4 +1,4 @@
-/*Faça um programa que receba dois números inteiros e imprima a soma desses dois números.*/
+/*FaÃ§a um programa que receba dois nÃºmeros inteiros e imprima a soma desses dois nÃºmeros.*/
 
 #include <stdio.h>
 
