@@ -1,4 +1,4 @@
-/*Faça um programa que receba 2 números inteiros e um número real. Calcule e imprima: 
+/*FaÃ§a um programa que receba 2 nÃºmeros inteiros e um nÃºmero real. Calcule e imprima: 
 i) o produto do dobro do primeiro com a metade do segundo;
 ii) a soma do triplo do primeiro com o terceiro;
 iii) o terceiro elevado ao cubo.*/
