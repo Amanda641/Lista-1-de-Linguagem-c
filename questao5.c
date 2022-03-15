@@ -1,4 +1,4 @@
-/*FaÁa um programa que receba alguma mediÁ„o em metros e imprima a convers„o para centÌmetros*/
+/*Fa√ßa um programa que receba alguma medi√ß√£o em metros e imprima a convers√£o para cent√≠metros*/
 
 #include <stdio.h>
 
