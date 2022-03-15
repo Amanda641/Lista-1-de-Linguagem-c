@@ -1,4 +1,4 @@
-/*FaÁa um programa que receba o sal·rio mensal atual de um funcion·rio e o percentual de reajuste. Calcule e imprima o valor do novo sal·rio.*/
+/*Fa√ßa um programa que receba o sal√°rio mensal atual de um funcion√°rio e o percentual de reajuste. Calcule e imprima o valor do novo sal√°rio.*/
 
 #include <stdio.h>
 int main()
